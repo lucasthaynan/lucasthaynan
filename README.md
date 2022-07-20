@@ -1,5 +1,5 @@
 # Olá, sou Lucas Thaynan 👋
-Sou Jornalista de Dados, designer gráfico e cofundador da [**Agência Tatu**](https://www.agenciatatu.com.br/). Moro em Maceió, Alagoas, me formei em Jornalismo pela **Universidade Federal de Alagoas**  (Ufal) e sou pós-graduando do **Master em Jornalismo de Dados, Automação e Data Storytelling pelo Insper**. Trabalho com análise de dados, User Interface (UI) e estou iniciando na programação web e Python.
+Sou Jornalista de Dados, designer gráfico e cofundador da [**Agência Tatu**](https://www.agenciatatu.com.br/). Moro em Maceió, Alagoas, me formei em Jornalismo pela **Universidade Federal de Alagoas**  (Ufal) e sou pós-graduado do **Master em Jornalismo de Dados, Automação e Data Storytelling pelo Insper**. Trabalho com análise de dados, User Interface (UI) e estou iniciando na programação web e Python.
 
 <div align="center">
   <a href="https://github.com/lucasthaynan">
@@ -9,8 +9,8 @@ Sou Jornalista de Dados, designer gráfico e cofundador da [**Agência Tatu**](h
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
   
